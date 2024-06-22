@@ -9,5 +9,5 @@ ftfy==6.1.1
 scipy==1.9.3
 transformers==4.25.1
 accelerate==0.14.0
-xformers==0.0.16
-triton==2.0.0.post1
+# xformers==0.0.16
+# triton==2.0.0.post1
